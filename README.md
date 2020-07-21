@@ -1,5 +1,6 @@
-# AccretiveWiz
-### Team, Please refer below user's manual while working with solutions provided for first two problrm statements:
+# Accretive Wiz@work
+### Team, please refer below user's manual while working with the solutions provided for assigned 3 problem statements:
+
 ## Problem statement::01
 * Instructions:
   * Please provide the user's input in valid format as per 'prompt messages'
